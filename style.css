@@ -68,14 +68,15 @@
   }
   h2{
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   h3 {
     text-align: center;
     font-family: fantasy;
   }
   h4{
-    text-align: center;
+    text-align: left;
+    font-family: 'Dancing Script', cursive;
   }
 
   div >.barra {
@@ -101,3 +102,7 @@
   th{
     padding: 15px 25px
   }
+
+  .zoom:hover {
+    transform: scale(1.5); 
+    .zoom:hover;
